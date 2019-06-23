@@ -1,4 +1,4 @@
-# babel-node
+# Issue with babel-node
 `babel-node` throws an error when I hit ctrl+c instead of exiting clean. Why?
 
 ## Quick start
