@@ -4,7 +4,8 @@
   "description": "`babel-node` throws an error when I hit ctrl+c instead of exiting clean. Why?",
   "main": "index.js",
   "scripts": {
-    "start": "babel-node server.js"
+    "start": "node server.js",
+    "start-babel-node": "babel-node server.js"
   },
   "repository": {
     "type": "git",
