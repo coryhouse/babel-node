@@ -1,9 +1,12 @@
-# babel-node or Express issue
+# babel-node issue
+
 `babel-node` throws an error when I hit ctrl+c instead of exiting clean. Why?
 
 ## Quick start
 
 ```
+git clone https://github.com/coryhouse/babel-node.git
+cd babel-node
 npm install
 npm run start-babel-node
 ctrl+c
